@@ -1,3 +1,6 @@
 [submodule "guess-my-number"]
 	path = guess-my-number
 	url = git@github.com:somekindofwallflow3r/guess-my-number.git
+[submodule "modal-window"]
+	path = modal-window
+	url = git@github.com:somekindofwallflow3r/modal-window.git
