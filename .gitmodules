@@ -1,0 +1,3 @@
+[submodule "guess-my-number"]
+	path = guess-my-number
+	url = git@github.com:somekindofwallflow3r/guess-my-number.git
