@@ -4,3 +4,6 @@
 [submodule "modal-window"]
 	path = modal-window
 	url = git@github.com:somekindofwallflow3r/modal-window.git
+[submodule "pig-game"]
+	path = pig-game
+	url = git@github.com:somekindofwallflow3r/pig-game.git
